@@ -28,7 +28,7 @@ struct MenuListRow: View {
             
         }.listRowSeparator(.hidden)
             .listRowBackground(
-                Color(.brown).opacity(0.1)
+                Color(.brown).opacity(0.5)
             )
     }
 }
